@@ -763,8 +763,7 @@ Statements and control flow
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Statements are standard and can be assignments, function calls, control
-flow structures, etc (see below). ``;`` as a statement separator is
-entirely optional.
+flow structures, etc (see below). ``:`` as a statement separator required.
 
 if/else/elif
 ^^^^^^^^^^^^
